@@ -1,6 +1,6 @@
 ![ThatSkyPianist_LOGO](./imgs/ThatSkyPianist_LOGO.png)
 
-The `ThatSkyPianist` project is an innovative Digital Musical Instrument (DIMI) that leverages the powerful capabilities of the Raspberry Pi 4B to control GPIO pin levels to simulate screen tapping actions, automatically playing instruments in "Sky: Children of the Light". This project demonstrates how simple hardware operations can integrate programming with musical art. Theoretically, by adjusting the mapping relationship between notes and pins, `ThatSkyPianist` can not only play virtual instruments but also extend to automatically playing real pianos or other instruments, as long as the hardware conditions allow.
+The `ThatSkyPianist` project is an innovative Music Instrument Digital Interface (MIDI) that leverages the powerful capabilities of the Raspberry Pi 4B to control GPIO pin levels to simulate screen tapping actions, automatically playing instruments in "Sky: Children of the Light". This project demonstrates how simple hardware operations can integrate programming with musical art. Theoretically, by adjusting the mapping relationship between notes and pins, `ThatSkyPianist` can not only play virtual instruments but also extend to automatically playing real pianos or other instruments, as long as the hardware conditions allow.
 
 ![Demo](./imgs/demo.jpg)
 

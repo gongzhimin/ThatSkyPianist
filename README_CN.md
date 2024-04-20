@@ -1,6 +1,6 @@
 ![ThatSkyPianist_LOGO](.\imgs\ThatSkyPianist_LOGO.png)
 
-`ThatSkyPianist`项目是一个创新的数字音乐接口（Digital Musical Instrument, DIMI），它通过利用树莓派4B的强大功能，控制GPIO引脚的高低电平来模拟屏幕点击动作，自动演奏《光遇》（Sky: Children of the Light）中的乐器。这个项目展示了如何通过简单的硬件操作，将编程与音乐艺术结合起来。理论上，通过调整音符与引脚的映射关系，`ThatSkyPianist`不仅能演奏虚拟乐器，还能扩展到自动演奏真实的钢琴或其他乐器，只要硬件条件允许。
+`ThatSkyPianist`项目是一个创新的数字音乐接口（Music Instrument Digital Interface, MIDI），它通过利用树莓派4B的强大功能，控制GPIO引脚的高低电平来模拟屏幕点击动作，自动演奏《光遇》（Sky: Children of the Light）中的乐器。这个项目展示了如何通过简单的硬件操作，将编程与音乐艺术结合起来。理论上，通过调整音符与引脚的映射关系，`ThatSkyPianist`不仅能演奏虚拟乐器，还能扩展到自动演奏真实的钢琴或其他乐器，只要硬件条件允许。
 
 ![Demo](.\imgs\demo.jpg)
 
